@@ -8,4 +8,4 @@
     └── utils              # Utility Classes
 
 # Screenshot 
-![Rick and Morty API](./lib/assets/images/Screenshot%202024-01-14%20021044.png)
+![Rick and Morty API](./lib/assets/images/screenshot.png)
