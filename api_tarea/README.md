@@ -5,7 +5,7 @@
     ├── ui                 # UI/View layer
     │   ├── home           # Character List Screen 
     │   └─ details         # Character Details Screen
-    └── utils              # Utility Classes
 
-# Screenshot 
+# Screenshot
+
 ![Rick and Morty API](./lib/assets/images/screenshot.png)
